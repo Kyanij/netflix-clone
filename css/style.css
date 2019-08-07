@@ -377,7 +377,6 @@ img{
 }
 
 
-
 @media screen  and (max-width:450px) {
     .showcase {
         height:80vh;
@@ -431,6 +430,8 @@ img{
     }
 
 }
+
+
 
 
 
